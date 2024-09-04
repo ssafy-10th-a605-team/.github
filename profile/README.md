@@ -1,4 +1,4 @@
-# GarenGG
+# garen-gg
 
 ### :calendar:When
 
